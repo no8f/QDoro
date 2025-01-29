@@ -1,0 +1,13 @@
+﻿diff --git a/include/wintoastlib.h b/include/wintoastlib.h
+index defd35f..3233b6a 100644
+--- a/include/wintoastlib.h
++++ b/include/wintoastlib.h
+@@ -161,7 +161,7 @@ namespace WinToastLib {
+         bool isInput() const;
+ 
+     private:
+-        bool _hasInput;
++        bool _hasInput = false;
+ 
+         std::vector<std::wstring> _textFields{};
+         std::vector<std::wstring> _actions{};

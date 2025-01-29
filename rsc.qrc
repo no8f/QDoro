@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/icons/ic_fluent_next_24_filled.svg</file>
+        <file>ressources/icons/ic_fluent_arrow_reset_24_filled.svg</file>
+        <file>ressources/icons/ic_fluent_task_list_add_24_filled.svg</file>
+        <file>ressources/icons/ic_fluent_dismiss_24_filled(1).svg</file>
+        <file>ressources/icons/ic_fluent_send_24_filled.svg</file>
+        <file>ressources/icons/ic_fluent_delete_24_filled.svg</file>
+    </qresource>
+</RCC>
